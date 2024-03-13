@@ -1,4 +1,22 @@
-p
-{
-color: #3F3F3F
-} 
+p {
+    color: gray
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+
+p {
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
