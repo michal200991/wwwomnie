@@ -2,6 +2,10 @@ p {
     color: gray
 }
 
+body {
+    background-color: #6C4646;
+}
+
 img {
     display: block;
     margin-left: auto;
