@@ -24,3 +24,24 @@ h1 {
 h2 {
     text-align: center;
 }
+
+
+/* Nieodwiedzony link */
+
+a:link {
+    color: red;
+}
+
+
+/* Odwiedzony link */
+
+a:visited {
+    color: yellow;
+}
+
+
+/* Link po najechaniu kursorem */
+
+a:hover {
+    color: blue;
+}
