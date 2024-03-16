@@ -1,5 +1,6 @@
 p {
-    color: gray
+    color: gray;
+    text-align: center;
 }
 
 body {
@@ -11,10 +12,6 @@ img {
     margin-left: auto;
     margin-right: auto;
     width: 40%;
-}
-
-p {
-    text-align: center;
 }
 
 h1 {
