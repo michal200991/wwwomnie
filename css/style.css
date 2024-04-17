@@ -5,6 +5,8 @@ p {
 
 body {
     background-color: #6C4646;
+    width: 80%;
+    margin: auto;
 }
 
 img {
